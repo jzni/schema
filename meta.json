@@ -1,5 +1,5 @@
 {
-  "$id": "https://raw.githubusercontent.com/jzni/schema/refs/heads/main/meta.json",
+  "$id": "https://raw.githubusercontent.com/jzni/schema/main/meta.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "JSON Schema Meta",
   "type": "object",
