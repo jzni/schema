@@ -1,0 +1,17 @@
+{
+  "$id": "https://raw.githubusercontent.com/jzni/schema/refs/heads/main/meta.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "JSON Schema Meta",
+  "type": "object",
+  "properties": {
+    "$help": {
+      "type": "string"
+    },
+    "$version": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true,
+  "allowTrailingCommas": true,
+  "allowComments": true
+}
