@@ -1,0 +1,11 @@
+{
+  "$id": "https://raw.githubusercontent.com/jzni/schema/main/app/microsoft/winget.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Microsoft's Windows Package Manager Settings Profile Schema (with trailing commas)",
+  "allOf": [
+    {
+      "$ref": "https://aka.ms/winget-settings.schema.json"
+    }
+  ],
+  "allowTrailingCommas": true
+}

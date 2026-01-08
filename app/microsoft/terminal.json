@@ -1,0 +1,11 @@
+{
+  "$id": "https://raw.githubusercontent.com/jzni/schema/main/app/microsoft/terminal.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Microsoft's Windows Terminal Settings Profile Schema (with trailing commas)",
+  "allOf": [
+    {
+      "$ref": "https://aka.ms/terminal-profiles-schema"
+    }
+  ],
+  "allowTrailingCommas": true
+}
